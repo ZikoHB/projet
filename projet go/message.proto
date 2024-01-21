@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package projet;
+
+message ClMessage {
+  string id = 1;
+  string msg = 2;
+
+}
